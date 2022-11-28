@@ -1,5 +1,5 @@
 
-Microsoft Visual C++ Full Versions
+Microsoft Visual C++
 =
 
 Important Notes:
