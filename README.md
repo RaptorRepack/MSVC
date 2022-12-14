@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------------------------------------------------------------------
-Microsoft Visual C++ Redistributable Project
+Microsoft Visual C++ Redistributable Projects
 -----------------------------------------------------------------------------------------------------------------------------------
 Important Notes:
 - This microsoft visual c++ redistributable all data found on Microsoft servers
@@ -7,7 +7,7 @@ Important Notes:
 - If you interested to my repack then install this microsoft visual c++ all in one redistributable
 -----------------------------------------------------------------------------------------------------------------------------------
 Release Date:
-- This product coming in mid December 2022
+- This product coming in tomorrow
 -----------------------------------------------------------------------------------------------------------------------------------
 Software Information:
 - Software Name: Microsoft Visual C++
@@ -15,14 +15,13 @@ Software Information:
 - Software Mode: Redistributable
 - Software Architecture: 64bit-32bit
 - Software Build Edition: All In One
-- Software File Size: Coming Soon
+- Software File Size: <.>
 - Software Installer Designer: Raptor Repack™
 - Software Installer Developer: Raptor Repack™
 - Software Copyright: ©Raptor Repack 2022,Inc
 ------------------------------------------------------------------------------------------------------------------------------------
 ChangeLog Status:
-- This product are working process
-- This product changelog coming in mid december 2022
+- Tomorrow coming in changelog.
 ------------------------------------------------------------------------------------------------------------------------------------
 Follow Me: https://wwww.twitter.com/raptorrepack
 ------------------------------------------------------------------------------------------------------------------------------------
