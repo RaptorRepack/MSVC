@@ -31,5 +31,5 @@ Changelog:
 Important notes:
 - Some Users MSVC Installer CMD Interface Issues Face In Such Windows 11 22H2.
 --------------------------------------------------------------------------------------------------------------------
-Follow Me: https://wwww.twitter.com/raptorrepack
+Follow Me: https://www.twitter.com/raptorrepack
 --------------------------------------------------------------------------------------------------------------------
