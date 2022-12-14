@@ -1,27 +1,35 @@
------------------------------------------------------------------------------------------------------------------------------------
 Microsoft Visual C++ Redistributable Project
------------------------------------------------------------------------------------------------------------------------------------
-Important notes:
-- Microsoft visual C++ redistributable project folder name  is msvc.
-- This microsoft visual c++ redistributable all data found on Microsoft servers.
-- If you interested to my repack then install this microsoft visual c++ all in one redistributable.
------------------------------------------------------------------------------------------------------------------------------------
-Release status:
-- Project files or folder RELEASED..!
------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+*Microsoft visual C++ redistributable project folder name  is msvc.*
+
+*This microsoft visual c++ redistributable all data found on Microsoft servers.*
+
+*If you interested to my repack then install this microsoft visual c++ all in one redistributable.*
+
+--------------------------------------------------------------------------------------------------------------------
+
 Software information:
 - Software Name: Microsoft Visual C++
 - Software Versions: v1.0.20.22
 - Software Mode: Redistributable
-- Software Architecture: 64bit-32bit
+- Software Architecture: 64bit/32bit
 - Software Build Edition: All In One
-- Software File Size: <...>
+- Software File Size: 98.36 MB
 - Software Installer Designer: Raptor Repack™
 - Software Installer Developer: Raptor Repack™
 - Software Copyright: ©Raptor Repack 2022,Inc
-------------------------------------------------------------------------------------------------------------------------------------
-ChangeLog status:
-- Changelog soon..!
-------------------------------------------------------------------------------------------------------------------------------------
+
+Changelog:
+- Fixed Installer CMD Interface.
+- Fixed Installer Stability.
+- Fixed Some Bugs or Issues.
+- Added Redistributable All Latest 2022 Updates.
+- AMD 7000 Series CPU Supported.
+- Intel 13th Gen CPU Supported.
+- Improved Installer System Performance.
+
+Important notes:
+- Some Users MSVC Installer CMD Interface Issues Face In Such Windows 11 22H2.
+--------------------------------------------------------------------------------------------------------------------
 Follow Me: https://wwww.twitter.com/raptorrepack
-------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
