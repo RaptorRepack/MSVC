@@ -1,15 +1,15 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 Microsoft Visual C++ Redistributable Project
 -----------------------------------------------------------------------------------------------------------------------------------
-Important Notes:
-- This microsoft visual c++ redistributable all data found on Microsoft servers
-
-- If you interested to my repack then install this microsoft visual c++ all in one redistributable
+Important notes:
+- Microsoft visual C++ redistributable project folder name  is msvc.
+- This microsoft visual c++ redistributable all data found on Microsoft servers.
+- If you interested to my repack then install this microsoft visual c++ all in one redistributable.
 -----------------------------------------------------------------------------------------------------------------------------------
-Release Date:
-- This product coming in tomorrow
+Release status:
+- Project files or folder RELEASED..!
 -----------------------------------------------------------------------------------------------------------------------------------
-Software Information:
+Software information:
 - Software Name: Microsoft Visual C++
 - Software Versions: v1.0.20.22
 - Software Mode: Redistributable
@@ -20,8 +20,8 @@ Software Information:
 - Software Installer Developer: Raptor Repack™
 - Software Copyright: ©Raptor Repack 2022,Inc
 ------------------------------------------------------------------------------------------------------------------------------------
-ChangeLog Status:
-- Tomorrow coming in changelog.
+ChangeLog status:
+- Changelog soon..!
 ------------------------------------------------------------------------------------------------------------------------------------
 Follow Me: https://wwww.twitter.com/raptorrepack
 ------------------------------------------------------------------------------------------------------------------------------------
