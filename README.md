@@ -15,7 +15,7 @@ Software Information:
 - Software Mode: Redistributable
 - Software Architecture: 64bit-32bit
 - Software Build Edition: All In One
-- Software File Size: <.>
+- Software File Size: <...>
 - Software Installer Designer: Raptor Repack™
 - Software Installer Developer: Raptor Repack™
 - Software Copyright: ©Raptor Repack 2022,Inc
