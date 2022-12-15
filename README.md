@@ -14,7 +14,7 @@ Software information:
 - Software Mode: Redistributable
 - Software Architecture: 64bit/32bit
 - Software Build Edition: All In One
-- Software File Size: 98.36 MB
+- Software File Space: 98.36 MB
 - Software Installer Designer: Raptor Repack™
 - Software Installer Developer: Raptor Repack™
 - Software Copyright: ©Raptor Repack 2022,Inc
