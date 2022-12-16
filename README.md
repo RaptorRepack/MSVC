@@ -24,8 +24,6 @@ Changelog:
 - Fixed Installer Stability.
 - Fixed Some Bugs or Issues.
 - Added Redistributable All Latest 2022 Updates.
-- AMD 7000 Series CPU Supported.
-- Intel 13th Gen CPU Supported.
 - Improved Installer System Performance.
 
 Important notes:
