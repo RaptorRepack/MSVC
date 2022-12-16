@@ -6,6 +6,8 @@ Microsoft Visual C++ Redistributable Project
 
 *If you interested to my repack then install this microsoft visual c++ all in one redistributable.*
 
+*This software fully open source software and this software all data available for my GitHub page only.*
+
 --------------------------------------------------------------------------------------------------------------------
 
 Software information:
