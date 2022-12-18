@@ -25,7 +25,6 @@ Changelog:
 - Fixed Installer CMD Interface.
 - Fixed Installer Stability.
 - Fixed Some Bugs or Issues.
-- Added Redistributable All Latest 2022 Updates.
 - Improved Installer System Performance.
 
 Important notes:
