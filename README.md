@@ -29,4 +29,4 @@ Important notes:
 - Some users MSVC installer CI (CMD Interface) issues face in such Windows 11 22H2.
 
 Follow my twitter page:
-- http://t.co/raptorrepack
+- http://shorturl.at/dfDEQ
