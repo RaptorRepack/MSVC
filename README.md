@@ -28,5 +28,5 @@ Changelog:
 Important notes:
 - Some users MSVC installer CI (CMD Interface) issues face in such Windows 11 22H2.
 
-Follow Me: https://t.co/raptorrepack
---------------------------------------------------------------------------------------------------------------------
+Follow my twitter page:
+- http://t.co/raptorrepack
