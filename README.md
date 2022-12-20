@@ -20,13 +20,13 @@ Software information:
 - Software Copyright: ©Raptor Repack 2022,Inc
 
 Changelog:
-- Fixed Installer CMD Interface.
-- Fixed Installer Stability.
-- Fixed Some Bugs or Issues.
-- Improved Installer System Performance.
+- Fixed installer ci (CMD Interface).
+- Fixed installer stability.
+- Fixed some bugs or issues.
+- Improved installer system performance.
 
 Important notes:
-- Some Users MSVC Installer CMD Interface Issues Face In Such Windows 11 22H2.
+- Some users MSVC installer CI (CMD Interface) issues face in such Windows 11 22H2.
 --------------------------------------------------------------------------------------------------------------------
 Follow Me: https://www.twitter.com/raptorrepack
 --------------------------------------------------------------------------------------------------------------------
