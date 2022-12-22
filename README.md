@@ -28,5 +28,7 @@ Changelog:
 Important notes:
 - Some users MSVC installer CI (CMD Interface) issues face in such Windows 11 22H2.
 
-Follow my twitter page:
+Social media
+-----------------------------------------------
+Twitter page:
 - http://shorturl.at/dfDEQ
