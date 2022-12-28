@@ -25,8 +25,9 @@ Changelog
 - Fixed: Some bugs or issues
 - Improve: Setup installer system performance
 
-Important notes:
-- Some users MSVC installer CI (CMD Interface) issues face in such Windows 11 22H2.
+Important notes
+-----------------------------------------------
+- Some users MSVC installer Ci (CMD Interface) issues face in such Windows 11 22H2.
 
 Social media
 -----------------------------------------------
