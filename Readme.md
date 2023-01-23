@@ -7,7 +7,7 @@ If you interested to my repack then install this microsoft visual c++ all in one
 This software fully open source software and this software all data available for my GitHub page only.
 
 Information status
---------------------------------------------------------------------------------------------------------------------
+------------------------------------------------
 - Software Name: Microsoft Visual C++
 - Software Versions: v2.0.20.23
 - Software Mode: Redistributable
@@ -24,7 +24,7 @@ Changelog
 
 Important notes
 -----------------------------------------------
-- Today 05:00pm Beta Testing Started (06:00-GTM)
+- Today 05:00pm Beta Testing Started (GMT-06:00)
 
 Social media
 -----------------------------------------------
