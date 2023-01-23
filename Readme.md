@@ -9,25 +9,22 @@ This software fully open source software and this software all data available fo
 Information status
 --------------------------------------------------------------------------------------------------------------------
 - Software Name: Microsoft Visual C++
-- Software Versions: v1.0.20.22
+- Software Versions: v2.0.20.23
 - Software Mode: Redistributable
-- Software Architecture: 64bit/32bit
+- Software Architecture: 64bit
 - Software Build Edition: All In One
-- Software File Space: 98.36 MB
+- Software File Space: Coming Soon...
 - Software Installer Designer: Raptor Repack™
 - Software Installer Developer: Raptor Repack™
-- Software Copyright: © Raptor Repack 2022,Inc
+- Software Copyright: © Raptor Repack 2023,Inc
 
 Changelog
 -----------------------------------------------
-- Fixed: Setup installer ci (CMD Interface)
-- Fixed: Setup installer stability
-- Fixed: Some bugs or issues
-- Improve: Setup installer system performance
+- Coming Soon
 
 Important notes
 -----------------------------------------------
-- Some users MSVC installer Ci (CMD Interface) issues face in such Windows 11 22H2.
+- Today 05:00pm Beta Testing Started (06:00-GTM)
 
 Social media
 -----------------------------------------------
