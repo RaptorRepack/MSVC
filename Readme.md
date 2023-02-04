@@ -24,7 +24,7 @@ Changelog
 
 Important notes
 -----------------------------------------------
-- 23 January 2023 05:00pm Internally Beta Testing Started (GMT-06:00)
+- 4 February 2023 9:00pm (BDT) Time Under 2end Beta Testing Started 
 - Beta Project Files Or Any Setup Files Not Release 
 - Next Month Coming Stable Build To Wait Please
 
