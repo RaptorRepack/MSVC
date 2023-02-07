@@ -24,8 +24,8 @@ Changelog
 
 Important notes
 -----------------------------------------------
-- 4 February 2023 9:00pm (BDT) Time Under 2end Beta Testing Started 
-- Beta Project Files Or Any Setup Files Not Release 
+- Visual C++ Redistributable™ 4 February 2023 5:00pm (BDT) Time Under Beta Testing Started..!
+- Beta Project Files Coming Soon... 
 - Next Month Coming Stable Build To Wait Please
 
 Social media
