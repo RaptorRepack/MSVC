@@ -24,9 +24,9 @@ Changelog
 
 Important notes
 -----------------------------------------------
-- Visual C++ Redistributable™ 4 February 2023 5:00pm (BDT) Time Under Beta Testing Started..!
-- Beta Project Files Coming Soon... 
-- Next Month Coming Stable Build To Wait Please
+- Visual C++ Redistributable™ 19 February 2023 10:00pm (BDT) Time 4th Under Beta Testing Started..!
+- Beta Project Files 25th February Available 
+- 5 March Month Coming Stable Build To Wait Please
 
 Social media
 -----------------------------------------------
