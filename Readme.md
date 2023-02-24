@@ -18,10 +18,6 @@ Information status
 - Software Installer Developer: Raptor Repack™
 - Software Copyright: © Raptor Repack 2023,Inc
 
-Changelog
------------------------------------------------
-- Coming Soon
-
 Important notes
 -----------------------------------------------
 - Tomorrow Coming Beta Project Files.
