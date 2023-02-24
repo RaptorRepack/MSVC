@@ -26,6 +26,6 @@ Important Notes
 - Tomorrow Coming Beta Project Files.
 - 5 March Month Coming Stable Build To Wait Please
 
-Social media
+Social Media
 -----------------------------------------------
 Twitter page: https://t.ly/wM1r
