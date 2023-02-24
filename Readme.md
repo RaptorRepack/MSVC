@@ -1,4 +1,4 @@
-Microsoft Visual C++ Redistributable Notes
+Notes
 ------------------------------------------------
 
 Microsoft visual C++ redistributable project folder name  is msvc.
