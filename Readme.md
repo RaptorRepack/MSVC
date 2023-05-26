@@ -1,7 +1,7 @@
 Notes
 ------------------------------------------------
 
-• Microsoft visual C++ redistributable project folder name  is (msvc).
+• Microsoft visual C++ redistributable project folder name  is (MSVC).
 
 • This microsoft visual c++ redistributable all data found on Microsoft servers.
 
@@ -12,18 +12,19 @@ Notes
 Product Informations
 ------------------------------------------------
 - Software Name: Microsoft Visual C++
-- Software Versions: v2.0.20.23
+- Software Versions: v2.0.0.0
 - Software Mode: Redistributable
 - Software Architecture: 64bit
 - Software Build Edition: AIO
 - Software File Space: <...>
-- Software Installer Designer: Raptor Repack™
-- Software Installer Developer: Raptor Repack™
-- Software Copyright: © Raptor Repack 2023,Inc
+- Software Installer Designer: Raptor Repack
+- Software Installer Developer: Raptor Repack
+- Software Copyright: © Raptor Repack 2023 Co.Inc
 
 Important Notes
------------------------------------------------
-- Stable Release Coming Soon...
+---------------
+- Development Program Process Started.
+- Stable Release Soon...
 
 Social Media
 -----------------------------------------------
