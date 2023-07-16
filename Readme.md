@@ -1,5 +1,5 @@
 Notes
-------------------------------------------------
+-----
 
 • Microsoft visual C++ redistributable project folder name  is (MSVC).
 
@@ -10,7 +10,7 @@ Notes
 • This software fully open source software and this software all data available for my GitHub page only.
 
 Product Informations
-------------------------------------------------
+--------------------
 - Software Name: Microsoft Visual C++
 - Software Versions: v2.0.0.0
 - Software Mode: Redistributable
@@ -27,5 +27,6 @@ Important Notes
 - Stable Release Soon...
 
 Social Media
------------------------------------------------
-Twitter page: https://t.ly/wM1r
+------------
+- Follow Now
+  http://Twitter.Com/RaptorMusk
