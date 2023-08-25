@@ -28,5 +28,4 @@ Important Notes
 
 Social Media
 ------------
-- Follow Now
-  http://Twitter.Com/RaptorMusk
+- Twitter Page: https://s.id/1SYd8
