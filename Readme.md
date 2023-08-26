@@ -16,7 +16,7 @@ Product Informations
 --------------------
 - Product Name: Microsoft Visual C++
 - Product Versions: v2.0.0.0
-- Product Installer Version: v1.9.0.0 OEM
+- Product Installer Version: v1.9.0.0-OEM
 - Product Mode: Redistributable
 - Product OS Support: Win 10 or Win 11
 - Product OS Build Version: 22H2 or Higher
