@@ -29,15 +29,15 @@ Product Informations
 
 Important Notes
 ---------------
-- Development Program Process Started.
 - Microsoft Visual C++ Redistributable 2023 Missing or Error Problem Facing On Windows 10 Users.
+- Stable Release In 15 September 2023.
 
-Not Recommended
+Not Recommend
 ---------------
 - This MSVC Software (Not Recommended) For Older Version Windows 10 or Windows 11.
 - Windows Build Version 21H2 (Not Recommended) For MSVC Software.
 
-Highly Recommended
+Recommend
 ------------------
 - This MSVC Software (Highly Recommend) For Latest Version Windows 10 or Windows 11.
 - Windows Build Version 22H2 or Higher (Highly Recommend) For MSVC Software.
