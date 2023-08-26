@@ -20,7 +20,7 @@ Product Informations
 - Product OS Support: Win 10 or Win 11
 - Product OS Build Version: 22H2 or Higher
 - Product Architecture: 64bit
-- Product Build Edition: AIO
+- Product Build Edition: All In One
 - Product Install Space Size: 1x.xx MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
