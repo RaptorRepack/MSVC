@@ -22,7 +22,7 @@ Product Informations
 - Product OS Build Version: 22H2 or Higher
 - Product Architecture: 64bit
 - Product Build Edition: AIO
-- Product Install Space Size: 1x.xx
+- Product Install Space Size: 1x.xx MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
 - Software Copyright: © Raptor Repack 2023 Co.Inc
