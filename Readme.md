@@ -9,16 +9,20 @@ Notes
 
 • This software fully open source software and this software all data available for my GitHub page only.
 
+• 
+Microsoft visual C++ redistributable related kind of all informations sharing with twitter, Please follow now my twitter page.
+
 Product Informations
 --------------------
-- Software Name: Microsoft Visual C++
-- Software Versions: v2.0.0.0
-- Software Mode: Redistributable
-- Software Architecture: 64bit
-- Software Build Edition: AIO
-- Software File Space: <...>
-- Software Installer Designer: Raptor Repack
-- Software Installer Developer: Raptor Repack
+- Product Name: Microsoft Visual C++
+- Product Versions: v2.0.0.0
+- Product Mode: Redistributable
+- Product OS Support: Windows 10 or Windows 11
+- Product Architecture: 64bit
+- Product Build Edition: AIO
+- Product Disk Space: <...>
+- Product Designer: Raptor Repack
+- Product Developer: Raptor Repack
 - Software Copyright: © Raptor Repack 2023 Co.Inc
 
 Important Notes
