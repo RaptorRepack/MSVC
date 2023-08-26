@@ -19,6 +19,7 @@ Product Informations
 - Product Installer Version: v1.9.0.0 OEM
 - Product Mode: Redistributable
 - Product OS Support: Win 10 or Win 11
+- Product OS Build Version: 22H2 or Higher
 - Product Architecture: 64bit
 - Product Build Edition: AIO
 - Product Install Space Size: 1x.xx
@@ -30,9 +31,9 @@ Important Notes
 ---------------
 - Development Program Process Started.
 - Microsoft Visual C++ Redistributable 2023 Missing or Error Problem Facing On Windows 10 Users.
-- This MSVC (Not Recommended) For Older Version Windows 10 or Windows 11.
+- This MSVC Software (Not Recommended) For Older Version Windows 10 or Windows 11.
 - Windows Build Version 21H2 (Not Recommended) For MSVC Software.
-- This MSVC (Highly Recommend) For Latest Version Windows 10 or Windows 11.
+- This MSVC Software (Highly Recommend) For Latest Version Windows 10 or Windows 11.
 - Windows Build Version 22H2 or Higher (Highly Recommend) For MSVC Software.
 - Stable Release Soon...
 
