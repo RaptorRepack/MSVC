@@ -21,7 +21,7 @@ Product Informations
 - Product OS Build Version: 22H2 or Higher
 - Product Architecture: 64bit
 - Product Build Edition: All In One
-- Product Install Space Size: 1x.xx MB
+- Product Install Space Size: 60.49 MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
 - Software Copyright: © Raptor Repack 2023 Co.Inc
