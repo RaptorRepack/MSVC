@@ -29,7 +29,6 @@ Product Informations
 Important Notes
 ---------------
 - Microsoft Visual C++ Redistributable 2023 Missing or Error Problem Facing On Windows 10 Users.
-- Stable Release In 15 September 2023.
 
 Not Recommended
 ---------------
