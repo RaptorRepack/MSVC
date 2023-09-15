@@ -1,7 +1,7 @@
 Read The Notes
 --------------
 
-• Microsoft visual C++ redistributable project folder name  is (MSVC).
+• Microsoft visual C++ redistributable project folder name  is MSVC.
 
 • This microsoft visual c++ redistributable all data found on Microsoft servers.
 
@@ -29,13 +29,7 @@ Product Informations
 Important Notes
 ---------------
 - Microsoft Visual C++ Redistributable 2023 Missing or Error Problem Facing On Windows 10 Users.
-
-Not Recommended Notes 
----------------------
 - Not Recommended For Older Versions Windows 10 or Windows 11 To Not Install This New MSVC Software.
-
-Highly Recommended Notes
-------------------------
 - Highly Recommended For Latest Versions Windows 10 or Windows 11 To Install The MSVC Software.
 
 Social Media
