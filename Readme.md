@@ -28,6 +28,7 @@ Product Informations
 
 Important Notes
 ---------------
+- Some Bugs In The Setup Installer Side Banner or Header Image And This Bugs Fixing In The Next Upcoming Updates.
 - Not Recommended For Older Versions Windows 10 or Windows 11 Do Not Install This New MSVC Software.
 - Highly Recommended For Latest Versions Windows 10 or Windows 11 To Install The MSVC Software.
 
