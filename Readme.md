@@ -15,19 +15,20 @@ Microsoft visual C++ redistributable related kind of all informations sharing wi
 Product Informations
 --------------------
 - Product Name: Microsoft Visual C++
-- Product Versions: v2.0.0.0
+- Product Versions: v3.0.0.0
 - Product Mode: Redistributable
 - Product OS Support: Win 10 or Win 11
 - Product OS Build Version: 22H2 or Higher
-- Product Architecture: 64bit
+- Product Architecture: 64bit/32bit
 - Product Build Edition: All In One
-- Product Install Space Size: 60.49 MB
+- Product Install Space Size: 1x.xx MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
 - Software Copyright: © Raptor Repack 2023 Co.Inc
 
 Important Notes
 ---------------
+- Microsoft Visual C++ Redistributable v3.0.0.0 64bit/32bit 2023 Update Coming 18 September.
 - Some Bugs In The Setup Installer Side Banner or Header Image And This Bugs Fixing In The Next Upcoming Updates.
 - Not Recommended For Older Versions Windows 10 or Windows 11 Do Not Install This New MSVC Software.
 - Highly Recommended For Latest Versions Windows 10 or Windows 11 To Install The MSVC Software.
