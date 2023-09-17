@@ -21,14 +21,14 @@ Product Informations
 - Product OS Build Version: 22H2 or Higher
 - Product Architecture: 64bit/32bit
 - Product Build Edition: All In One
-- Product Install Space Size: 1x.xx MB
+- Product Install Space Size: 115.47 MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
 - Software Copyright: © Raptor Repack 2023 Co.Inc
 
 Important Notes
 ---------------
-- Microsoft Visual C++ Redistributable v3.0.0.0 All In One 64bit/32bit 2023 Update Coming 18 September.
+- Microsoft Visual C++ Redistributable v3.0.0.0 All In One 64bit/32bit 2023 Update Released.
 - Some Bugs In The Setup Installer Side Banner or Header Image And This Image Bugs Fixing In The Next Upcoming Updates.
 - Not Recommended For Older Versions Windows 10 or Windows 11 Do Not Install This New MSVC Software.
 - Highly Recommended For The Use Latest Versions Windows 10 or Windows 11 To The Install MSVC Software.
