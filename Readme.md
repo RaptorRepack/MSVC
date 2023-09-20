@@ -26,10 +26,10 @@ Microsoft visual C++ redistributable related kind of all informations sharing wi
 - Product Developer: Raptor Repack
 - Software Copyright: © Raptor Repack 2023 Co.Inc
 
-Important Notes
----------------
-- Highly Recommended For The Use Latest Versions Windows 10 or Windows 11 To The Install MSVC Software.
+📝 Important Notes
+------------------
+🔴 Highly Recommended For The Use Latest Versions Windows 10 or Windows 11 To The Install MSVC Software.
 
-Social Media
+🌐 Social Media
 ------------
-- Twitter Page: https://s.id/TwitterRR
+🔗 Twitter Page: https://s.id/TwitterRR
