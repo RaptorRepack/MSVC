@@ -1,5 +1,5 @@
-Read The Notes
---------------
+📝 Read the main notes
+----------------------
 
 • Microsoft visual C++ redistributable project folder name  is MSVC.
 
@@ -12,8 +12,8 @@ Read The Notes
 • 
 Microsoft visual C++ redistributable related kind of all informations sharing with twitter, Please follow now my twitter page.
 
-Product Informations
---------------------
+🧾 Product Informations
+-----------------------
 - Product Name: Microsoft Visual C++
 - Product Versions: v3.0.0.0
 - Product Mode: Redistributable
