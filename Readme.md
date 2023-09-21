@@ -12,7 +12,7 @@
 • 
 Microsoft visual C++ redistributable related kind of all informations sharing with twitter, Please follow now my twitter page.
 
-🧾 Product Informations
+🧾 Product informations
 -----------------------
 - Product Name: Microsoft Visual C++
 - Product Versions: v3.0.0.0
@@ -26,10 +26,10 @@ Microsoft visual C++ redistributable related kind of all informations sharing wi
 - Product Developer: Raptor Repack
 - Software Copyright: © Raptor Repack 2023 Co.Inc
 
-📝 Important Notes
+📝 Important notes
 ------------------
 🔴 Highly Recommended For The Use Latest Versions Windows 10 or Windows 11 To The Install MSVC Software.
 
-🌐 Social Media
+🌐 Social media
 ------------
 🔗 Twitter Page: https://s.id/TwitterRR
