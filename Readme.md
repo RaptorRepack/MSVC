@@ -12,7 +12,7 @@
 • 
 Microsoft visual C++ redistributable related kind of all informations sharing with twitter, Please follow now my twitter page.
 
-🧾 Product informations
+📋 Product informations
 -----------------------
 - Product Name: Microsoft Visual C++
 - Product Versions: v3.0.0.0
