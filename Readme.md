@@ -28,7 +28,7 @@ Microsoft visual C++ redistributable related kind of all informations sharing wi
 
 ⬇️ Download Now
 ---------------
-➡️ [MSVC v3.0.0.0 AIO 64bit/32bit Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v3.0.0)
+➡️ [Microsoft Visual C++ Redistributable v3.0.0.0 All In One 64bit/32bit Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v3.0.0)
 
 📝 Important notes
 ------------------
