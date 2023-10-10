@@ -31,6 +31,15 @@ Microsoft visual C++ redistributable related kind of all informations sharing wi
 ---------------
 ➡️ [Microsoft Visual C++ Redistributable v3.0.0.0 All In One 64bit/32bit Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v3.0.0)
 
+⛔ Older versions
+-----------------
+⛔ [v2.0.0.0](https://github.com/RaptorRepack/MSVC/releases/tag/v2.0.0) Stabe
+⛔ [v1.0.0.0](https://github.com/RaptorRepack/MSVC/releases/tag/v1.0.0) Stable
+
+📢 Upcoming updates
+-------------------
+⏳ [v4.0.0.0](https://GitHub.com/raptorrepack/MSVC)
+
 📝 Important notes
 ------------------
 🔴 Highly Recommended For The Use Latest Versions Windows 10 or Windows 11 To The Install MSVC Software.
