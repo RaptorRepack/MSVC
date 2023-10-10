@@ -1,5 +1,5 @@
-📝 Read the main notes
-----------------------
+📝 Read The Notes
+-----------------
 
 • Microsoft visual C++ redistributable project folder name  is MSVC.
 
@@ -12,7 +12,7 @@
 • 
 Microsoft visual C++ redistributable related kind of all informations sharing with twitter, Please follow now my [Twitter](https://www.twitter.com/raptorrepack) page.
 
-📋 Product informations
+📋 Product Informations
 -----------------------
 - Product Name: Microsoft Visual C++
 - Product Versions: v3.0.0.0
@@ -31,20 +31,20 @@ Microsoft visual C++ redistributable related kind of all informations sharing wi
 ---------------
 ➡️ [Microsoft Visual C++ Redistributable v3.0.0.0 All In One 64bit/32bit Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v3.0.0)
 
-⛔ Older versions
+⛔ Older Versions
 -----------------
 ⛔ [v2.0.0.0](https://github.com/RaptorRepack/MSVC/releases/tag/v2.0.0) Stabe
 
 ⛔ [v1.0.0.0](https://github.com/RaptorRepack/MSVC/releases/tag/v1.0.0) Stable
 
-📢 Upcoming updates
+📢 Upcoming Updates
 -------------------
 ⏳ [v4.0.0.0](https://GitHub.com/raptorrepack/MSVC) Coming Soon...
 
-📝 Important notes
+📝 Important Notes
 ------------------
 🔴 Highly Recommended For The Use Latest Versions Windows 10 or Windows 11 To The Install MSVC Software.
 
-🌐 Social media
+🌐 Social Media
 ---------------
 🐦 Follow My [Twitter](https://www.twitter.com/raptorrepack) Page
