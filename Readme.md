@@ -16,6 +16,7 @@ Microsoft visual C++ redistributable related kind of all informations sharing wi
 -----------------------
 - Product Name: Microsoft Visual C++
 - Product Versions: v3.0.0.0
+- Product Build Stage: Stable
 - Product Mode: Redistributable
 - Product OS Support: Win 10 or Win 11
 - Product OS Build Version: 22H2 or Higher
