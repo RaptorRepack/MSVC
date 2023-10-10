@@ -26,10 +26,13 @@ Microsoft visual C++ redistributable related kind of all informations sharing wi
 - Product Developer: Raptor Repack
 - Software Copyright: © Raptor Repack 2023 Co.Inc
 
+⬇️ Download Now
+---------------
+⬇️ [MSVC v3.0.0.0](https://github.com/RaptorRepack/MSVC/releases/tag/v3.0.0)
 📝 Important notes
 ------------------
 🔴 Highly Recommended For The Use Latest Versions Windows 10 or Windows 11 To The Install MSVC Software.
 
 🌐 Social media
-------------
+---------------
 🔗 Twitter Page: https://s.id/TwitterRR
