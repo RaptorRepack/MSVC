@@ -34,11 +34,12 @@ Microsoft visual C++ redistributable related kind of all informations sharing wi
 ⛔ Older versions
 -----------------
 ⛔ [v2.0.0.0](https://github.com/RaptorRepack/MSVC/releases/tag/v2.0.0) Stabe
+
 ⛔ [v1.0.0.0](https://github.com/RaptorRepack/MSVC/releases/tag/v1.0.0) Stable
 
 📢 Upcoming updates
 -------------------
-⏳ [v4.0.0.0](https://GitHub.com/raptorrepack/MSVC)
+⏳ [v4.0.0.0](https://GitHub.com/raptorrepack/MSVC) Coming Soon...
 
 📝 Important notes
 ------------------
