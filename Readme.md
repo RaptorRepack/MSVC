@@ -12,7 +12,7 @@
 • 
 Microsoft visual C++ redistributable related kind of all informations sharing with twitter, Please follow now my [Twitter](https://www.twitter.com/raptorrepack) page.
 
-📋 Product Informations
+📑 Product Informations
 -----------------------
 - Product Name: Microsoft Visual C++
 - Product Versions: v3.0.0.0
@@ -29,7 +29,7 @@ Microsoft visual C++ redistributable related kind of all informations sharing wi
 
 ⬇️ Download Now
 ---------------
-➡️ [Microsoft Visual C++ Redistributable v3.0.0.0 All In One 64bit/32bit Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v3.0.0)
+👉 [Microsoft Visual C++ Redistributable v3.0.0.0 All In One 64bit/32bit Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v3.0.0)
 
 ⛔ Older Versions
 -----------------
@@ -47,4 +47,4 @@ Microsoft visual C++ redistributable related kind of all informations sharing wi
 
 🌐 Social Media
 ---------------
-🐦 Follow My [Twitter](https://www.twitter.com/raptorrepack) Page
+👉 Follow My [Twitter](https://www.twitter.com/raptorrepack) Page
