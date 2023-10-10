@@ -10,7 +10,7 @@
 • This software fully open source software and this software all data available for my GitHub page only.
 
 • 
-Microsoft visual C++ redistributable related kind of all informations sharing with twitter, Please follow now my twitter page.
+Microsoft visual C++ redistributable related kind of all informations sharing with twitter, [Please follow now my twitter page.](https://www.twitter.com/raptorrepack)
 
 📋 Product informations
 -----------------------
