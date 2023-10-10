@@ -10,7 +10,7 @@
 • This software fully open source software and this software all data available for my GitHub page only.
 
 • 
-Microsoft visual C++ redistributable related kind of all informations sharing with twitter, [Please follow now my twitter page.](https://www.twitter.com/raptorrepack)
+Microsoft visual C++ redistributable related kind of all informations sharing with twitter, Please follow now my [Twitter](https://www.twitter.com/raptorrepack) page.
 
 📋 Product informations
 -----------------------
@@ -28,7 +28,7 @@ Microsoft visual C++ redistributable related kind of all informations sharing wi
 
 ⬇️ Download Now
 ---------------
-⬇️ [MSVC v3.0.0.0 AIO 64bit/32bit Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v3.0.0)
+⬇️ MSVC [v3.0.0.0](https://github.com/RaptorRepack/MSVC/releases/tag/v3.0.0) AIO 64bit/32bit Stable
 
 📝 Important notes
 ------------------
@@ -36,4 +36,4 @@ Microsoft visual C++ redistributable related kind of all informations sharing wi
 
 🌐 Social media
 ---------------
-🐦 [Follow My Twitter Page](https://www.twitter.com/raptorrepack)
+🐦 Follow My [Twitter](https://www.twitter.com/raptorrepack) Page
