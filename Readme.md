@@ -36,4 +36,4 @@ Microsoft visual C++ redistributable related kind of all informations sharing wi
 
 🌐 Social media
 ---------------
-🔗 Twitter Page: https://s.id/TwitterRR
+🐦 [Follow My Twitter Page](https://www.twitter.com/raptorrepack)
