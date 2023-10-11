@@ -17,6 +17,7 @@
 - Product Versions: v3.0.0.0
 - Product Build Stage: Stable
 - Product Mode: Redistributable
+- Product Changelog: [What's New](https://github.com/RaptorRepack/MSVC/releases/tag/v3.0.0)
 - Product OS Support: Win 10 or Win 11
 - Product OS Build Version: 22H2 or Higher
 - Product Architecture: 64bit/32bit
@@ -32,9 +33,9 @@
 
 ⛔ Older Versions
 -----------------
-🚫 [v2.0.0.0](https://github.com/RaptorRepack/MSVC/releases/tag/v2.0.0) Stable
+🚫 v2.0.0.0 Stable [Changelog](https://github.com/RaptorRepack/MSVC/releases/tag/v2.0.0)
 
-🚫 [v1.0.0.0](https://github.com/RaptorRepack/MSVC/releases/tag/v1.0.0) Stable
+🚫 v1.0.0.0 Stable [Changelog](https://github.com/RaptorRepack/MSVC/releases/tag/v1.0.0)
 
 📢 Upcoming Updates
 -------------------
