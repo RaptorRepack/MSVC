@@ -28,11 +28,11 @@
 
 ⬇️ Download Now
 ---------------
-👉 [Microsoft Visual C++ Redistributable v3.0.0.0 All In One 64bit/32bit Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v3.0.0)
+👉 [Microsoft Visual C++ Redistributable v3.0.0.0 All In One 64bit/32bit Stable](https://github.com/RaptorRepack/MSVC/releases/download/v3.0.0/MSVC_v3.0.0.0_x64_x86.exe)
 
 ⛔ Older Versions
 -----------------
-🚫 [v2.0.0.0](https://github.com/RaptorRepack/MSVC/releases/tag/v2.0.0) Stable
+🚫 [v2.0.0.0](https://github.com/RaptorRepack/MSVC/rleases/tag/v2.0.0) Stable
 
 🚫 [v1.0.0.0](https://github.com/RaptorRepack/MSVC/releases/tag/v1.0.0) Stable
 
