@@ -32,7 +32,7 @@
 
 ⛔ Older Versions
 -----------------
-🚫 [v2.0.0.0](https://github.com/RaptorRepack/MSVC/rleases/tag/v2.0.0) Stable
+🚫 [v2.0.0.0](https://github.com/RaptorRepack/MSVC/releases/tag/v2.0.0) Stable
 
 🚫 [v1.0.0.0](https://github.com/RaptorRepack/MSVC/releases/tag/v1.0.0) Stable
 
