@@ -5,7 +5,7 @@
 
 - This microsoft visual c++ redistributable all data found on Microsoft servers.
 
-- If you interested to my repack then install this microsoft visual c++ all in one redistributable.
+- If you interested to my repack then install this microsoft visual c++ redistributable.
 
 - This software fully open source software and this software all data available for my GitHub page only.
 
