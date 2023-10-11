@@ -1,15 +1,15 @@
 📝 Read The Notes
 -----------------
 
-- Microsoft visual C++ redistributable project folder name  is MSVC.
+- Microsoft Visual C++ Redistributable project folder name  is MSVC.
 
-- This microsoft visual c++ redistributable all data found on Microsoft servers.
+- This Microsoft Visual C++ Redistributable all data found on Microsoft servers.
 
-- If you interested to my repack then install this microsoft visual c++ redistributable.
+- If you interested to my repack then install this Microsoft Visual C++ Redistributable.
 
 - This software fully open source software and this software all data available for my GitHub page only.
 
-- Microsoft visual C++ redistributable related kind of all informations sharing with twitter, Please follow now my [Twitter](https://www.twitter.com/raptorrepack) page.
+- Microsoft Visual C++ Redistributable related kind of all informations sharing with twitter, Please follow now my [Twitter](https://www.twitter.com/raptorrepack) page.
 
 📑 Product Informations
 -----------------------
