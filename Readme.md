@@ -33,9 +33,9 @@
 
 ⛔ Older Versions
 -----------------
-🚫 v2.0.0.0 Stable [What's New](https://github.com/RaptorRepack/MSVC/releases/tag/v2.0.0)
+🚫 [MSVC v2.0.0.0 Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v2.0.0)
 
-🚫 v1.0.0.0 Stable [What's New](https://github.com/RaptorRepack/MSVC/releases/tag/v1.0.0)
+🚫 [MSVC v1.0.0.0 Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v1.0.0)
 
 📢 Upcoming Updates
 -------------------
