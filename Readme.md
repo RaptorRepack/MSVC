@@ -39,7 +39,7 @@
 
 📢 Upcoming Updates
 -------------------
-⏳ No Official Information.
+⏳ No Official Informations.
 
 📝 Important Notes
 ------------------
