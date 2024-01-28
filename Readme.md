@@ -1,45 +1,47 @@
 📝 Read The Notes
 -----------------
 
-- Microsoft Visual C++ Redistributable project folder name  is MSVC.
+- Microsoft Visual C++ Redistributable Project Folder Name  Is "MSVC".
 
-- This Microsoft Visual C++ Redistributable all data found on Microsoft servers.
+- This Microsoft Visual C++ Redistributable All Data Found On Microsoft Servers.
 
-- If you interested to my repack then install this Microsoft Visual C++ Redistributable.
+- If You Interested To My Repack Then Install This Microsoft Visual C++ Redistributable.
 
-- This software fully open source software and this software all data available for my GitHub page only.
+- This Software Fully Open Source Software And This Software All Data Available For My GitHub Page Only.
 
-- Microsoft Visual C++ Redistributable related kind of all informations sharing with twitter, Please follow now my [Twitter](https://www.twitter.com/raptorrepack) page.
+- Microsoft Visual C++ Redistributable Related Kind Of All Informations Sharing With Twitter, Please Follow Now My [Twitter](https://www.twitter.com/raptorrepack) Page.
 
 🧾 Product Informations
 -----------------------
 - Product Name: Microsoft Visual C++
-- Product Versions: v3.0.0.0
+- Product Versions: v4.0.0.0
 - Product Build Stage: Stable
 - Product Mode: Redistributable
-- Product Changelog: [What's New](https://github.com/RaptorRepack/MSVC/releases/tag/v3.0.0)
+- Product Changelog: [What's New](https://github.com/RaptorRepack/MSVC)
 - Product OS Support: Win 10 or Win 11
-- Product OS Build Version: 22H2 or Higher
+- Product OS Build Version: 23H2 or 22H2
 - Product Architecture: 64bit/32bit
 - Product Build Edition: All In One
-- Product Install Space Size: 115.47 MB
+- Product Install Space Size: 1x.xx MB
 - Product Designer: Raptor Repack
 - Product Developer: Raptor Repack
-- Software Copyright: © Raptor Repack 2023 Co.Inc
+- Software Copyright: © Raptor Repack 2024 Co.Inc
 
 ⬇️ Download Now
 ---------------
-👉 [Microsoft Visual C++ Redistributable v3.0.0.0 All In One 64bit/32bit Stable](https://github.com/RaptorRepack/MSVC/releases/download/v3.0.0/MSVC_v3.0.0.0_x64_x86.exe)
+👉 Microsoft Visual C++ Redistributable Download Link Soon...
 
 📥 Older Versions
 -----------------
+👉 [MSVC v3.0.0.0 Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v3.0.0)
+
 👉 [MSVC v2.0.0.0 Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v2.0.0)
 
 👉 [MSVC v1.0.0.0 Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v1.0.0)
 
 📢 Upcoming Updates
 -------------------
-⏳ No Official Informations.
+⏳ MSVC v4.0.0.0 Stable
 
 📝 Important Notes
 ------------------
