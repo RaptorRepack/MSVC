@@ -18,7 +18,7 @@
 - Product Build Stage: Stable
 - Product Mode: Redistributable
 - Product Changelog: [What's New](https://github.com/RaptorRepack/MSVC)
-- Product OS Support: Win 10 or Win 11
+- Product OS Support: Windows 11 or Windows 10
 - Product OS Build Version: 23H2 or 22H2
 - Product Architecture: 64bit/32bit
 - Product Build Edition: All In One
@@ -29,7 +29,7 @@
 
 ⬇️ Download Now
 ---------------
-👉 Microsoft Visual C++ Redistributable Download Link Soon...
+👉 Direct Download Link Soon...
 
 📥 Older Versions
 -----------------
