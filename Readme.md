@@ -49,6 +49,8 @@
 
 #### 🔴 Highly Recommended For The Use Latest Versions Windows 10 or Windows 11 To The Install MSVC Software.
 
+#### 
+
 ## 🌐 Social Media
 
-#### [Twitter Page](https://twitter.com/raptorrepack) || [YouTube Channel](https://youtube.com/@RaptorRepack)
+#### [Follow Now](https://twitter.com/raptorrepack) || [Subscribe Now](https://youtube.com/@RaptorRepack)
