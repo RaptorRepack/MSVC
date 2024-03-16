@@ -6,7 +6,7 @@
 
 - If You Interested To My Repack Then Install This MSVC Software.
 
-- This MSVC Software Fully Open Source Software And This Software All Data Available For My GitHub Page Only.
+- This MSVC Software Fully Open Source Software And This Software All Data Available Only For My GitHub Page or Microsoft Webpage.
 
 - MSVC Software Related Kind Of All Informations Sharing With Twitter, Please Follow Now My Twitter Page.
 
