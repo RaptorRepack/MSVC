@@ -16,8 +16,8 @@
 - Product Versions: v4.0.0.0
 - Product Build Stage: Stable
 - Product Mode: Redistributable
-- Product OS Support: Windows 11 or Windows 10
-- Product OS Build Version: 23H2 or 22H2
+- Product OS Support: Windows 11
+- Product OS Build Version: 23H2
 - Product Architecture: 64bit/32bit
 - Product Build Edition: All In One
 - Product Install Space Size: 1x.xx MB
