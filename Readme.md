@@ -1,56 +1,56 @@
-### 📝 Read The Notes
+## 📝 Read The Notes
 
-##### • MSVC Software Project Folder Name Is MSVC.
+• MSVC Software Project Folder Name Is MSVC.
 
-##### • This MSVC Software All Data Found On Microsoft Servers.
+• This MSVC Software All Data Found On Microsoft Servers.
 
-##### • If You Interested To My Repack Then Install This MSVC Software.
+• If You Interested To My Repack Then Install This MSVC Software.
 
-##### • This MSVC Software Fully Open Source Software And This Software All Data Available Only For My GitHub Page or Microsoft Webpage.
+• This MSVC Software Fully Open Source Software And This Software All Data Available Only For My GitHub Page or Microsoft Webpage.
 
-##### • MSVC Software Related Kind Of All Informations Sharing With Twitter, Please Follow Now My Twitter Page.
+• MSVC Software Related Kind Of All Informations Sharing With Twitter, Please Follow Now My Twitter Page.
 
-### 📑 Product Informations
+## 📑 Product Informations
 
-##### • Product Name: Microsoft Visual C++
-##### • Product Versions: v4.0.0.0
-##### • Product Build Stage: Stable
-##### • Product Mode: Redistributable
-##### • Product OS Support: Windows 11
-##### • Product OS Build Version: 23H2
-##### • Product Architecture: 64bit/32bit
-##### • Product Build Edition: All In One
-##### • Product Install Space Size: 1x.xx MB
-##### • Product Designer: Raptor Repack
-##### • Product Developer: Raptor Repack
-##### • Software Copyright: © Raptor Repack 2024 Co.Inc
+- Product Name: Microsoft Visual C++
+- Product Versions: v4.0.0.0
+- Product Build Stage: Stable
+- Product Mode: Redistributable
+- Product OS Support: Windows 11
+- Product OS Build Version: 23H2
+- Product Architecture: 64bit/32bit
+- Product Build Edition: All In One
+- Product Install Space Size: 1x.xx MB
+- Product Designer: Raptor Repack
+- Product Developer: Raptor Repack
+- Software Copyright: © Raptor Repack 2024 Co.Inc
 
-### ⬇️ Direct Download Now ⬇️
+## 📦 Direct Download Now
 
-## [*Very Soon...*](https://GitHub.com/RaptorRepack/MSVC)
+##### [Very Soon...](https://GitHub.com/RaptorRepack/MSVC)
 
-### ⚙️ Changelog
+## ⚙️ Changelog
 
-#### [*Very Soon...*](https://github.com/RaptorRepack/MSVC)
+##### [Very Soon...](https://github.com/RaptorRepack/MSVC)
 
-### 📤 Older Versions
+## 📦 Older Versions
 
-#### 📥 [MSVC v3.0.0.0 Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v3.0.0)
+##### 📥 [MSVC v3.0.0.0 Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v3.0.0)
 
-#### 📥 [MSVC v2.0.0.0 Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v2.0.0)
+##### 📥 [MSVC v2.0.0.0 Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v2.0.0)
 
-#### 📥 [MSVC v1.0.0.0 Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v1.0.0)
+##### 📥 [MSVC v1.0.0.0 Stable](https://github.com/RaptorRepack/MSVC/releases/tag/v1.0.0)
 
-### 📢 Upcoming Updates
+## 📢 Upcoming Updates
 
-#### ⏳ MSVC v4.0.0.0 Stable
+##### 🪧 MSVC v4.0.0.0 Stable
 
-### 📝 Important Notes
+## 📝 Important Notes
 
-##### 🔴 Highly recommended For Windows 11 23H2 Pro Edition To Use This MSVC Software.
+##### • Highly recommended For Windows 11 23H2 Pro Edition To Use This MSVC Software.
 
-##### 🔴 Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The Repack Toolkit Installation Setup File.
+##### • Highly Recommended For Setup File Install To Run as Administrator Click Now, Then Finish The Repack Toolkit Installation Setup File.
 
-### 🌐 Social Media
+## 🌐 Social Media
 
-#### [Follow Now](https://twitter.com/raptorrepack) || [Subscribe Now](https://youtube.com/@RaptorRepack)
+##### [Follow Now](https://twitter.com/raptorrepack) || [Subscribe Now](https://youtube.com/@RaptorRepack)
