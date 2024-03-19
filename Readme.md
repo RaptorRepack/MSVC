@@ -4,7 +4,7 @@
 
 • This MSVC Software All Data Found On Microsoft Servers.
 
-• If You Interested To My Repack Then Install This MSVC Software.
+• If You Interested To My Repack Then Install This MSVC Repack Software.
 
 • This MSVC Software Fully Open Source Software And This Software All Data Available Only For My GitHub Page or Microsoft Webpage.
 
